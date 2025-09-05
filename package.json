@@ -1,0 +1,12 @@
+{
+  "name": "my-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "appwrite": "^13.0.0"   // Appwrite SDK (백엔드에서 쓸 때만)
+  }
+}
